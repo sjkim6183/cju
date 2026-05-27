@@ -1,0 +1,6 @@
+{
+  "name": "충북대학교 포털",
+  "description": "충북대학교의 아름다운 캠퍼스 라이프와 우수한 학술 정보, 최신 소식을 전하는 공식 웹 포털 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
